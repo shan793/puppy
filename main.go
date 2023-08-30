@@ -36,3 +36,7 @@ func FromV11() string {
 func FromV12() string {
 	return "I'm from version 1.2.0"
 }
+
+func FromV13() string {
+	return "I'm from version 1.3.X (since I kinda messed up haha)"
+}
